@@ -1,1 +1,1 @@
-# Questo è il mio porfolio di progetti python
+Questo è il mio porfolio di progetti python
